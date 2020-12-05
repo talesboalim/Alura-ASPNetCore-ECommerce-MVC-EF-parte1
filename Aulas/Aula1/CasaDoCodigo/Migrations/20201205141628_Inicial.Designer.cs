@@ -11,7 +11,7 @@ using System;
 namespace CasaDoCodigo.Migrations
 {
     [DbContext(typeof(ApplicationContext))]
-    [Migration("20201204142506_Inicial")]
+    [Migration("20201205141628_Inicial")]
     partial class Inicial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
